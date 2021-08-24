@@ -3,7 +3,7 @@
 import shodan
 import sys
 
-API_KEY = 'h9qw0xeTqxSb4myUzrlre0Ivf68JnsL8'
+API_KEY = 'Your_api_key_here'
 if len(sys.argv) == 1:
     print('example : python3 simple-shodan.py apache')
     sys.exit()
