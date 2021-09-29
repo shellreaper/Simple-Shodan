@@ -37,6 +37,6 @@ python3 simple-shodan.py
  - mx records
  
 **warning**
-    This tool will throw an error if you doesn't provide valid api key 
+    This tool will throw an error if you don't provide valid api key 
  
  
